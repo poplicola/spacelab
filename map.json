@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/upstairs.json"
+                 "value":"..\/spacelab\/upstairs.json"
                 }],
          "type":"tilelayer",
          "visible":true,
