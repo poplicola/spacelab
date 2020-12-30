@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=nHAPJaeacGE"
+                 "value":"http:\/\/workadventu.re\/"
                 }],
          "type":"tilelayer",
          "visible":true,
