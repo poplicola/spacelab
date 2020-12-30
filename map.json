@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/irl.depaul.edu\/remote-fabrication\/"
+                 "value":"https:\/\/workadventu.re\/create-map.html"
                 }],
          "type":"tilelayer",
          "visible":true,
