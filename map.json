@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/workadventu.re\/"
+                 "value":"https:\/\/poplicola.github.io\/spacelab\/3dprinter.html"
                 }],
          "type":"tilelayer",
          "visible":true,
