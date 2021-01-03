@@ -12,7 +12,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/spacelab\/map.json"
+                 "value":"..\/spacelab\/jayson_maze.json"
                 }],
          "type":"tilelayer",
          "visible":true,
