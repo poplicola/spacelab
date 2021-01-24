@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -24,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/spacelab\/map.json"
+                 "value":"..\/spacelab\/mommaze.json"
                 }],
          "type":"tilelayer",
          "visible":true,
