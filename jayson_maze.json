@@ -31,7 +31,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/spacelab\/mauramaze.json"
+                 "value":"..\/spacelab\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
