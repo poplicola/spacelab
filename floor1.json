@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"heyarthur.html"
+                 "value":"https:\/\/poplicola.github.io\/spacelab\/heyarthur.html"
                 }],
          "type":"tilelayer",
          "visible":true,
